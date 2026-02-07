@@ -1,5 +1,5 @@
 ---
-name: idea-method-cards
+name: ideo-method-cards
 description: >
   IDEO's 51 Design Method Cards for product design, user research, workshop planning,
   design sprints, and design thinking facilitation. Helps founders, PMs, and designers

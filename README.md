@@ -14,19 +14,19 @@ A Claude Code skill that brings IDEO's 51 Design Method Cards to your terminal. 
 ### Option 1: Symlink (recommended for development)
 
 ```bash
-ln -s /path/to/idea-method-cards ~/.claude/skills/idea-method-cards
+ln -s /path/to/ideo-method-cards ~/.claude/skills/ideo-method-cards
 ```
 
 ### Option 2: Copy
 
 ```bash
-cp -r /path/to/idea-method-cards ~/.claude/skills/idea-method-cards
+cp -r /path/to/ideo-method-cards ~/.claude/skills/ideo-method-cards
 ```
 
 ### Option 3: Install from GitHub
 
 ```bash
-git clone https://github.com/bayramannakov/idea-method-cards.git ~/.claude/skills/idea-method-cards
+git clone https://github.com/bayramannakov/ideo-method-cards.git ~/.claude/skills/ideo-method-cards
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ git clone https://github.com/bayramannakov/idea-method-cards.git ~/.claude/skill
 ### Slash Command
 
 ```
-/idea-method-cards
+/ideo-method-cards
 ```
 
 ### Natural Language (Auto-Trigger)
